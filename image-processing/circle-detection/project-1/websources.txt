@@ -1,0 +1,9 @@
+https://github.com/Qengineering/YoloX-ncnn-Raspberry-Pi-4
+
+https://mmdetection.readthedocs.io/en/latest/user_guides/train.html
+
+https://medium.com/@thamqianyu96/quick-object-detection-yolo-7f2bbdaf6a6d
+
+https://github.com/yuto3o/yolox
+
+https://github.com/Megvii-BaseDetection/YOLOX
